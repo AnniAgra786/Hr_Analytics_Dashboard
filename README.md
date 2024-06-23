@@ -2,7 +2,6 @@
 
 ![image](https://github.com/AnniAgra786/Hr_Analytics_Dashboard/assets/109506450/b0c0c035-09ca-483b-875b-cc9d5c237d3c)
 
-## Dasboard_Link - https://app.powerbi.com/links/bR0Dz90lOU?ctid=c0a1dd7f-056e-4a07-9dc9-f8a5d13e596c&pbi_source=linkShare
 ## Table of Contents
 
 - [Overview](#overview)
@@ -83,7 +82,7 @@ Visuals
 ## Dashboard Snippet
 ![Screenshot 2024-06-23 115913](https://github.com/AnniAgra786/Hr_Analytics_Dashboard/assets/109506450/8b4ff8f4-c4cf-4308-8ad2-89bc6ab79ea7)
 
-
+## Dasboard_Link - https://app.powerbi.com/links/bR0Dz90lOU?ctid=c0a1dd7f-056e-4a07-9dc9-f8a5d13e596c&pbi_source=linkShare
 
 ## Contributing
 Contributions are welcome! Please read the contributing guidelines before you start.
